@@ -16,6 +16,6 @@ A plugin to add an action to all **uninstallable** plugins to deactivate & clear
 ## About Me
 - Name: **Khaled Abu Alqomboz**, 
 - Work: **Freelancer Full Stack WordPress & WooCommerce Developer**.
-- Experience: **7 years as Web Applications Developer includes 5 Years of WordPress Development experience**
+- Experience: **9+ years as Web Applications Developer includes 7+ Years of WordPress/WooCommerce Development experience**
 - Availablity: **Available to work remotely, contact me please at eng.khaledb@gmail.com**
 
